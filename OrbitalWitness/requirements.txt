@@ -1,0 +1,5 @@
+unstructured[all-docs] 
+unstructured-client 
+watermark
+pymupdf
+tabula-py
